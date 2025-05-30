@@ -10,7 +10,7 @@ Each project includes a brief description, the technologies used, and links to t
 
 A single-page layout that mimics Spotify's UI, created using only HTML and CSS. The goal was to replicate a design spec as accurately as possible using static code.
 
-- 📁 [GitHub Repo](https://github.com/yourusername/spotify-playlist-clone)
+- 📁 [GitHub Repo](https://github.com/LitoKarageorgou/spotify-playlist-clone)
 - 🌐 [Live Demo](https://spotify-playlist-clone-project.netlify.app)
 - 🛠️ Technologies & Tools: HTML, CSS, Google Fonts, Material Icons
 
