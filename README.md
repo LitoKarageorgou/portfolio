@@ -27,4 +27,4 @@ I’ll be adding more projects as I upload them. Stay tuned!
 I'm a junior front-end developer passionate about building clean and responsive web interfaces.
 
 - ✉️ [lito.karageorgou@yahoo.com]
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/lito-karageorgou/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lito-karageorgou/)
