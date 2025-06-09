@@ -8,12 +8,22 @@ Each project includes a brief description, the technologies used, and links to t
 
 ## 🎧 Spotify Playlist Clone
 
-A single-page layout that mimics Spotify's UI, created using only HTML and CSS. The goal was to replicate a design spec as accurately as possible using static code.
+A single-page layout that mimics Spotify's UI, created using only HTML and CSS. The goal was to replicate a design spec as accurately as possible.
 
 - 📁 [GitHub Repo](https://github.com/LitoKarageorgou/spotify-playlist-clone)
 - 🌐 [Live Demo](https://spotify-playlist-clone-project.netlify.app)
-- 🛠️ Technologies & Tools: HTML, CSS, Google Fonts, Material Icons
+- 🛠️ Technologies Used: HTML5, CSS3
 
+---
+
+## 🖱️ Razer Website Clone
+
+A single-page layout that mimics Razer's UI, created using only HTML and CSS. The goal was to replicate a design spec as accurately as possible.
+
+- 📁 [GitHub Repo](https://github.com/LitoKarageorgou//razer-website-clone)
+- 🌐 [Live Demo](https://razer-website-clone.netlify.app)
+- 🛠️ Technologies Used: HTML5, CSS3
+  
 ---
 
 ## 🚧 More Projects Coming Soon
@@ -24,7 +34,7 @@ I’ll be adding more projects as I upload them. Stay tuned!
 
 ## 🙋‍♀️ About Me
 
-I'm a junior front-end developer passionate about building clean and responsive web interfaces.
+[Lito Karageorgou] –  I'm a junior front-end developer passionate about building web interfaces that balance strong functionality with thoughtful, audience-aware design.
 
 - ✉️ [lito.karageorgou@yahoo.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/lito-karageorgou/)
