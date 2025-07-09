@@ -40,11 +40,11 @@ Bright is a mobile-first web app that delivers a structured learning journey thr
   - Custom responsive design built with vanilla CSS modules
   - Modular routing per chapter and lesson step
 
-- **Links**:  
-  - 📁 [GitHub Repo](https://github.com/LitoKarageorgou/bright-app)
-  - 🌐 [Live Demo](https://bright-education.netlify.app/) *(best viewed in a 360×700 mobile viewport)*
+🔗 **Links**:   
+- 📁 [GitHub Repo](https://github.com/LitoKarageorgou/bright-app)
+- 🌐 [Live Demo](https://bright-education.netlify.app/) *(best viewed in a 360×700 mobile viewport)*
 
-- **Technologies Used**:  
+🛠️ **Technologies Used**:  
   React.js, React Router, OpenAI API, Web Speech API, CSS Modules, HTML5, JavaScript
 
 ---
