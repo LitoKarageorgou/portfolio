@@ -11,7 +11,7 @@ Each project includes a brief description, the technologies used, and links to t
 A single-page layout that mimics Spotify's UI, created using only HTML and CSS. The goal was to replicate a design spec as accurately as possible.
 
 - 📁 [GitHub Repo](https://github.com/LitoKarageorgou/spotify-playlist-clone)
-- 🌐 [Live Demo](https://spotify-playlist-clone-project.netlify.app)
+- 🌐 [Live Demo](https://spotify-playlist-clone-project.netlify.app) *(best viewed on desktop — recommended viewport width: 1920px)*
 - 🛠️ Technologies Used: HTML5, CSS3
 
 ---
@@ -21,7 +21,7 @@ A single-page layout that mimics Spotify's UI, created using only HTML and CSS. 
 A single-page layout that mimics Razer's UI, created using only HTML and CSS. The goal was to replicate a design spec as accurately as possible.
 
 - 📁 [GitHub Repo](https://github.com/LitoKarageorgou//razer-website-clone)
-- 🌐 [Live Demo](https://razer-website-clone.netlify.app)
+- 🌐 [Live Demo](https://razer-website-clone.netlify.app) *(best viewed on desktop — recommended viewport width: 1920px)*
 - 🛠️ Technologies Used: HTML5, CSS3
   
 ---
@@ -42,7 +42,7 @@ Bright is a mobile-first web app that delivers a structured learning journey thr
 
 🔗 **Links**:   
 - 📁 [GitHub Repo](https://github.com/LitoKarageorgou/bright-app)
-- 🌐 [Live Demo](https://bright-education.netlify.app/) *(best viewed in a 360×700 mobile viewport)*
+- 🌐 [Live Demo](https://bright-education.netlify.app/) *(best viewed on mobile — recommended viewport width: 360px)*
 
 🛠️ **Technologies Used**: React.js, React Router, OpenAI API, Web Speech API, CSS Modules, HTML5, JavaScript
 
