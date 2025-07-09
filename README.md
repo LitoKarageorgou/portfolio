@@ -1,6 +1,6 @@
 # 🧑‍💻 Front-End Projects Portfolio
 
-Welcome! This repository showcases the front-end projects I've built during my coding bootcamp and personal study.
+Welcome! This repository showcases the front-end projects I've built during my coding bootcamp, competition entries, and freelance work. 
 
 Each project includes a brief description, the technologies used, and links to the code and live demo.
 
@@ -50,13 +50,13 @@ Bright is a mobile-first web app that delivers a structured learning journey thr
 
 ## 🚧 More Projects Coming Soon
 
-I’ll be adding more projects as I upload them. Stay tuned!
+I’ll be adding more projects as I migrate and upload them from my earlier repositories. Stay tuned!
 
 ---
 
 ## 🙋‍♀️ About Me
 
-[Lito Karageorgou] –  I'm a junior front-end developer passionate about building web interfaces that balance strong functionality with thoughtful, audience-aware design.
+[Lito Karageorgou] –  I'm a front-end developer passionate about building web interfaces that balance strong functionality with thoughtful, audience-aware design.
 
 - ✉️ [lito.karageorgou@yahoo.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/lito-karageorgou/)
