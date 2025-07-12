@@ -29,7 +29,7 @@ A single-page layout that mimics Razer's UI, created using only HTML and CSS. Th
 
 A full-featured interactive website created as the final project of my front-end development bootcamp at SAE Athens. The site was designed for a fictional floral design studio and includes five main pages (Homepage, About, Services, Portfolio, Contact) and two subordinate content pages (FAQ, Privacy Policy) — all custom-built with HTML, CSS, and JavaScript.
 
-The goal was to build a fully-functional, responsive, and accessible multi-page website with real-world features based on a specific technical requirements.
+The goal was to build a fully-functional, responsive, and accessible multi-page website with real-world features based on specific technical requirements.
 
 - **Key Features**:
   - Fully responsive multi-page layout with consistent design system
