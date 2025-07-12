@@ -1,4 +1,4 @@
-# 🧑‍💻 Front-End Projects Portfolio
+# 👩‍💻 Front-End Projects Portfolio
 
 Welcome! This repository showcases the front-end projects I've built during my coding bootcamp, competition entries, and freelance work. 
 
@@ -25,32 +25,36 @@ A single-page layout that mimics Razer's UI, created using only HTML and CSS. Th
 - 🛠️ Technologies Used: HTML5, CSS3
   
 ---
-# 🌸 Floraison – Interactive Website for a Floral Design Studio
+## 🌸 Floraison – Interactive Website for a Floral Design Studio
 
-A full-featured interactive website created as the final project of my front-end development bootcamp at SAE Athens. The site was designed for a fictional floral design studio and includes five main pages (Homepage, About, Services, Portfolio, Contact) and two subordinate content pages — all custom-built with HTML, CSS, and JavaScript.
+A full-featured interactive website created as the final project of my front-end development bootcamp at SAE Athens. The site was designed for a fictional floral design studio and includes five main pages (Homepage, About, Services, Portfolio, Contact) and two subordinate content pages (FAQ, Privacy Policy) — all custom-built with HTML, CSS, and JavaScript.
 
-The goal was to build a modern, responsive, and accessible multi-page website with real-world features and UX logic, based on a design brief and technical requirements.
+The goal was to build a fully-functional, responsive, and accessible multi-page website with real-world features based on a specific technical requirements.
 
 - **Key Features**:
-- Fully responsive multi-page layout with consistent design system
-- Semantic HTML and accessibility-focused structure
-- Smooth CSS animations and one custom SVG animation
-- Local JSON data retrieval and rendering using the **Fetch API**
-- Category-based filtering logic on the portfolio page using vanilla JavaScript
-- Custom slider/gallery component for showcasing visual content
-- Client-side form validation with feedback messages
-- Codebase structured using the BEM (Block Element Modifier) methodology for scalable CSS
+  - Fully responsive multi-page layout with consistent design system
+  - Semantic HTML and accessibility-focused structure
+  - Smooth CSS animations and one custom SVG loader animation
+  - Local JSON data retrieval and rendering using Fetch API
+  - Category-based filtering using vanilla JavaScript
+  - Custom slider/gallery components for showcasing visual content
+  - Client-side form validation with feedback messages
+  - Codebase structured using the BEM (Block Element Modifier) methodology for scalable CSS
 
 
-- 🛠️ Technologies Used: HTML5, CSS3 (with BEM methodology)- including animations & SVG , JavaScript (custom sliders, Fetch API, JSON Filtering, form validation), responsive layout techniques (media queries, flexbox, grid)
 
 🔗 **Links**:
 - 📁 [GitHub Repo](https://github.com/LitoKarageorgou/floral-design-studio)
-- 🌐 [Live Demo](https://florience.netlify.app/portfolio.html) (Best viewed on desktop, tablet or  mobile)
+- 🌐 [Live Demo](https://florience.netlify.app/) *(best viewed on desktop — viewport width: 1920px, tablet — viewport width: 768px or  mobile — viewport width: 576px)*
+
+
+
+- 🛠️ Technologies Used: HTML5, CSS3 (with BEM methodology) — including animations & an SVG loader, JavaScript (custom sliders, Fetch API, JSON Filtering, form validation), responsive layout techniques (media queries, flexbox, grid)
 
 ---
 
-### 🧠 Bright – Educational Mobile App
+## 🧠 Bright – Educational Mobile App
+
 An interactive React-based educational app designed to help students with ADHD engage more effectively with their school material. Initially developed with two teammates during the OpenHackathon 2025, then fully redesigned and redeveloped from scratch as a solo project.
 
 Bright is a mobile-first web app that delivers a structured learning journey through three interactive steps: watch, read, and play. It keeps students motivated with XP rewards and supports them through an integrated AI assistant offering clarifications and extra games.
@@ -68,7 +72,7 @@ Bright is a mobile-first web app that delivers a structured learning journey thr
 - 📁 [GitHub Repo](https://github.com/LitoKarageorgou/bright-app)
 - 🌐 [Live Demo](https://bright-education.netlify.app/) *(best viewed on mobile — recommended viewport width: 360px)*
 
-🛠️ **Technologies Used**: React.js, React Router, OpenAI API, Web Speech API, CSS Modules, HTML5, JavaScript
+- 🛠️ **Technologies Used**: React.js, React Router, OpenAI API, Web Speech API, CSS Modules, HTML5, JavaScript
 
 ---
 
